@@ -17,3 +17,4 @@ Date                  | Time |          Marks                | |AnswertoQB|     
 
 
 Something like this would be wonderful.
+Generate someNaming pattern to organise or whatever I don't know. Some RegEx to organise maybe.
