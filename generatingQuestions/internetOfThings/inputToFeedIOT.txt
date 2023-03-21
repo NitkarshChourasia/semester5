@@ -1,4 +1,13 @@
-In the context "BSc IT" and the subject "Internet of Things", generate 60 questions, 12 for each unit as there are 5 units in the text given above and divide the questions in each unit chapterwise equally. For example, If a unit have 3 chapters then generate only 4 questions for each chapter, if a unit have 2 chapters then generate only 6 questions for each chapter, if a unit have only 1 chapter then generate all 12 questions for that chapter. Take the help of subtopics in each chapter to generate appropriate questions:
+Syllabus of subject "Internet of things" is given whose structure is similar to:
+Unit 1 :
+Chapter 1: Subtopics
+Chapter 2: Subtopics
+
+Unit 2 :
+Chapter 1: Subtopics
+Chapter 2: Subtopics
+
+I want you to generate 6 questions for each chapter based on the subtopics and the subject context, the real syllabus is the following:
 
 UNIT 1 :
 The Internet of Things: An Overview: The Flavour of the Internet of
