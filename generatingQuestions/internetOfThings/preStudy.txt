@@ -1,1 +1,7 @@
- 
+
+-Application Protocols: HTTP, MQTT, CoAP, AMQP
+-Transport Protocols: TCP/IP, UDP, Bluetooth, Wi-Fi
+-Network Protocols: IPv4/v6, 6LoWPAN, ZigBee, RFID
+-The communication layer enables communication between the objects and the internet. It includes protocols such as MQTT, CoAP, SSH, and XMPP.
+-At the service layer, a service-oriented architecture is employed to provide services such as remote control, management, and monitoring. This layer includes protocols such as REST and SOAP.
+
