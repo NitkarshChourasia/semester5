@@ -1,8 +1,8 @@
-In the context "BSc IT" and the subject "Internet of Things", generate 12 questions for each unit and divide the questions in each unit chapterwise equally. For example, If a unit have 3 chapters then generate 4 questions for each chapter, if a unit have 2 chapters then generate 6 questions for each chapter, if a unit have only 1 chapter then generate 12 questions for the chapter. Take the help of subtopics in each chapter to generate appropriate questions:
+In the context "BSc IT" and the subject "Internet of Things", generate 60 questions, 12 for each unit as there are 5 units in the text given above and divide the questions in each unit chapterwise equally. For example, If a unit have 3 chapters then generate only 4 questions for each chapter, if a unit have 2 chapters then generate only 6 questions for each chapter, if a unit have only 1 chapter then generate all 12 questions for that chapter. Take the help of subtopics in each chapter to generate appropriate questions:
 
 UNIT 1 :
 The Internet of Things: An Overview: The Flavour of the Internet of
-Things, The “Internet” of “Things”, The Technology of the Internet of
+Things, The “Intaernet” of “Things”, The Technology of the Internet of
 Things, Enchanted Objects,
 Who is Making the Internet of Things?
 
