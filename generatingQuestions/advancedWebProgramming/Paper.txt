@@ -1,0 +1,60 @@
+What is the .NET framework and how does it work?
+What are the differences between C# and VB in .NET languages?
+How does the .NET Class Library help in developing applications?
+What are the advantages of using .NET for software development?
+What are the basics of C# language and syntax?
+What are the different data types and variables used in C#?
+How is object-based manipulation used in C# programming?
+How are loops and methods used in C# programming?
+What are classes and how do you build a basic class in C#?
+How do namespaces and assemblies work in C# programming?
+What are the advanced features of class programming in C#?
+What is inheritance in C# programming?
+What is the code-behind class and how is it used in web development?
+What is the anatomy of an ASP.NET application?
+What are server controls and how are they used in web development?
+How do you configure an ASP.NET application?
+What are web control classes and how are they used in web development?
+How do you use table controls in web development?
+What are web control events and how are they used in web development?
+What is validation in web development and how is it used?
+What are site maps and how are they used in web development?
+What is URL mapping and routing in web development?
+What is the TreeView control and how is it used in web development?
+What is the Menu control and how is it used in web development?
+What is error handling and why is it important in web programming?
+What are some common errors that can occur in web programming?
+How can logging help in identifying errors in web applications?
+What is tracing and how can it be used for debugging?
+What is state management in web programming?
+How does View State work and what are its advantages and disadvantages?
+What are cookies and how can they be used for state management?
+What is session state and how can it be configured?
+What are styles and how can they be used in web programming?
+What is a master page and how can it be used for consistent page layout?
+What are themes and how can they be used for consistent page styling?
+What are the benefits of using advanced master pages in web applications?
+What is ADO.NET and how is it used for database connectivity in web applications?
+What is a database and how does ADO.NET interact with it?
+How can SQL be used with ADO.NET for data access?
+What are the advantages and disadvantages of using direct and disconnected data access?
+What is data binding and how is it used in web applications?
+How can single-value data binding be used to display data in web pages?
+How can repeated-value data binding be used to display multiple records in web pages?
+What are data source controls and how can they be used for data binding?
+What is the GridView control and how can it be used to display data in a table format?
+How can formatting be applied to the GridView control in web applications?
+How can GridView be used for editing and deleting data in web applications?
+How can sorting and paging be implemented in the GridView control in web applications?
+What is XML? Explain its features and uses.
+What are the advantages of using XML over other markup languages?
+What is XML validation and why is it important?
+What are the different types of XML parsers? Explain their differences.
+What is authentication and authorization? Explain the difference between the two.
+What are the different types of authentication methods available in ASP.NET? Explain each.
+What is Forms authentication? How is it implemented in ASP.NET?
+What is Windows authentication? How is it implemented in ASP.NET?
+What is AJAX and how is it used in web programming?
+What are the benefits of using AJAX in web programming?
+What is partial refreshing in AJAX? How does it improve web performance?
+What is the ASP.NET AJAX Control Toolkit? Explain its features and benefits.
